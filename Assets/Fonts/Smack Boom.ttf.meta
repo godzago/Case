@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e58a9a3a823a65041b040853b8ad44a4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Smack Boom
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 825946e4b2fd4534fb702851d7e95619, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
